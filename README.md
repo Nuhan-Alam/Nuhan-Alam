@@ -21,9 +21,15 @@ I'm early in my career but really eager to work with a team where I'll get to wo
 You can contact me via email at nuhanalam@gmail.com Great things start with communication and reaching out to each other
 ## 🔗 Links
 https://nuhan-alam.vercel.app/
+
 https://www.linkedin.com/in/nu5an/
+
 https://www.youtube.com/@BackEndNuhan
+
 https://leetcode.com/u/Nuhan_Alam/
+
 https://t.me/Nu5an
+
 https://discordapp.com/users/331150782307237908
+
 https://wa.me/8801863351020
