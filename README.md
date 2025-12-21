@@ -1,6 +1,6 @@
 
 # I'm Nuhan Alam a Junior Backend Engineer
-## Current work
+## Current (voluntary) work
 Backend Engineer at https://talktivity.app/
 This is an English learning app based on AI voice chat & video lessons
 
