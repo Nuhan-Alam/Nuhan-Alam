@@ -1,8 +1,5 @@
 
 # I'm Nuhan Alam a Junior Backend Engineer
-## Current (voluntary) work
-Backend Engineer at https://talktivity.app/
-This is an English learning app based on AI voice chat & video lessons
 
 ## 🛠 Skills
 **Fundamentals:** Python, C++, JavaScript, HTML, CSS
@@ -10,6 +7,8 @@ This is an English learning app based on AI voice chat & video lessons
 **Frameworks:** Django, React.js, Node.js
 
 **Database:** SQL, MongoDB
+
+**Production Deployment:** Linux servers, SSH, Nginx and Gunicorn
 
 ## Collaboration
 I'm willing to collaborate on any educational/beneficial projects
