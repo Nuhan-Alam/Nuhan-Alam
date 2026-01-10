@@ -4,7 +4,7 @@
 ## 🛠 Skills
 **Fundamentals:** Python, C++, JavaScript, HTML, CSS
 
-**Frameworks:** Django, React.js, Node.js
+**Frameworks:** Django, React.js
 
 **Database:** SQL, MongoDB
 
